@@ -1,4 +1,4 @@
-# glsl_touchdesigner
+# Audio Reactive TD [GLSL]
 
 A collection of audio-reactive GLSL shader visualizers built in TouchDesigner. Each subdirectory contains a self-contained `.toe` project file. Most shaders are raymarched or simulation-based, designed for real-time audio reactivity and live performance.
 
